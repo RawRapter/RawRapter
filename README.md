@@ -7,13 +7,16 @@
 
 ## 🔧 Tools and Technology
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-LibreCalc-informational?style=flat&logo=LibreOffice&logoColor=white&color=2bbc8a)
 
 ## 📖 Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="RawRapter" /></p>
