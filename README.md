@@ -4,6 +4,7 @@
 - 🏍 Passionate Analyst organizing data so that it makes sense and is rewarding for everyone!!
 - 👀 I’m interested in Data Analysis and DevOps.
 - 🏥 I have 3 year experience as Analyst in Wipro.
+- 🎟 You can check my [Certificates](https://github.com/RawRapter/RawRapter/tree/main/Certificates) here.
 
 ## 🔧 Tools and Technology
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
