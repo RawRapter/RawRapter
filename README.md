@@ -19,9 +19,17 @@
 ![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-LibreCalc-informational?style=flat&logo=LibreOffice&logoColor=white&color=2bbc8a)
 
+## 🐍 Python Libraries
+![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
+
+
 ## 📖 Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="RawRapter" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/?username=RawRapter&show_icons=true&locale=en&layout=compact&hide=stars,prs,issues,contribs" alt="RawRapter" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="RawRapter" /></p>
 
 
 
