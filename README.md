@@ -22,8 +22,6 @@
 ## 🐍 Python Libraries
 ![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
 
 
