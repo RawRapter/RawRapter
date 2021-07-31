@@ -23,12 +23,17 @@
 ![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-cufflinks-informational?style=flat&logo=cufflinks&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tkinter-informational?style=flat&logo=Tkinter&logoColor=white&color=2bbc8a)
+
+
 
 
 ## 📖 Stats
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="RawRapter" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/?username=RawRapter&show_icons=true&locale=en&layout=compact" alt="RawRapter" /></p>
-
 
 
 ## 📫 Get In Touch
