@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Anant Arun
 - 🏍 Passionate Analyst organizing data so that it makes sense and is rewarding for everyone!!
 - 📖 Pursuing M.Tech from Punjab Engineering College in Computer Science.
-- 👀 I’m interested in Data Analysis and DevOps.
+- 👀 I’m interested in Data Analytics.
 - 🏥 I have almost 3 year of experience as an Analyst in Wipro.
 - 🎟 You can check my [Certificates](https://github.com/RawRapter/RawRapter/tree/main/Certificates) here.
 
@@ -23,10 +23,11 @@
 ## 🐍 Python Libraries I have worked on..
 ![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-statsmodels-informational?style=flat&logo=statsmodels&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-sklearn-informational?style=flat&logo=sklearn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/-Tensorflow-informational?style=flat&logo=TensorFlow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-cufflinks-informational?style=flat&logo=cufflinks&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/-Tkinter-informational?style=flat&logo=Tkinter&logoColor=white&color=2bbc8a)
