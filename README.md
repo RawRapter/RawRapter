@@ -3,8 +3,7 @@
 - 👋 Hi, I’m Anant Arun
 - 🏍 Passionate Analyst organizing data so that it makes sense and is rewarding for everyone!!
 - 📖 Pursuing M.Tech from Punjab Engineering College in Computer Science.
-- 👀 I’m interested in Data Analytics.
-- 🏥 I have almost 3 year of experience as an Analyst in Wipro.
+- 🏥 Intern in intel.
 - 🎟 You can check my [Certificates](https://github.com/RawRapter/RawRapter/tree/main/Certificates) here.
 
 ## 🔧 Tools and Technology
