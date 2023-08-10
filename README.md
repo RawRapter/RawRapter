@@ -2,7 +2,7 @@
 ## 😎 Introduction
 - 👋 Hi, I’m Anant Arun
 - 🏍 Passionate Analyst organizing data so that it makes sense and is rewarding for everyone!!
-- 📖 Pursuing M.Tech from Punjab Engineering College in Computer Science.
+- 📖 M.Tech in Computer Science.
 - 🏥 Intern in intel.
 - 🎟 You can check my [Certificates](https://github.com/RawRapter/RawRapter/tree/main/Certificates) here.
 
@@ -13,11 +13,12 @@
 ![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-LibreCalc-informational?style=flat&logo=LibreOffice&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Visualization-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Microsoft-MicrosoftExcel-informational?style=flat&logo=MicrosoftExcel&logoColor=white&color=2bbc8a)
+
 
 ## 🐍 Python Libraries I have worked on..
 ![](https://img.shields.io/badge/-NumPy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a)
