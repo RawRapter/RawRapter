@@ -1,9 +1,9 @@
 [![Header](https://user-images.githubusercontent.com/26179993/125299158-8267f900-e346-11eb-93e8-d13af79e7d8e.jpg)](https://rawrapter.github.io/portfolio/)
 ## 😎 Introduction
 - 👋 Hi, I’m Anant Arun
-- 🏍 Passionate Analyst organizing data so that it makes sense and is rewarding for everyone!!
+- 🏍 Coding my way through challenges!!
 - 📖 M.Tech in Computer Science.
-- 🏥 Intern in intel.
+- 🏥 Software Engineer @ Intel.
 - 🎟 You can check my [Certificates](https://github.com/RawRapter/RawRapter/tree/main/Certificates) here.
 
 ## 🔧 Tools and Technology
